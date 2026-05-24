@@ -1,10 +1,24 @@
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
+
 # ⚛️ React Journey
 
+<p>
 A hands-on learning repository focused on mastering React, frontend development, UI design, reusable components, and modern frontend concepts.
+</p>
 
-## 👩‍💻 About The Project
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/Status-Learning-green)
 
-This repository documents my learning journey with React and frontend development using JavaScript.
+</div>
+
+---
+
+# 👩‍💻 About The Project
+
+This repository documents my learning journey with **React** and frontend development using JavaScript.
 
 The goal of this repository is to build strong frontend development skills by learning how to create modern user interfaces, reusable components, dynamic web applications, and real-world frontend projects step by step.
 
@@ -12,7 +26,19 @@ Every project and module added here reflects active learning and practical imple
 
 ---
 
-## 🛠️ Built With
+# 🛠️ Built With
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+
+</div>
 
 ### Technologies & Tools
 
@@ -27,9 +53,9 @@ Every project and module added here reflects active learning and practical imple
 
 ---
 
-## 📚 Repository Structure
+# 📚 Repository Structure
 
-```bash
+```text
 📂 react/
 ├── 📂 components/
 ├── 📂 jsx/
@@ -50,7 +76,7 @@ More modules and frontend projects will continue to be added as learning progres
 
 ---
 
-## ✨ What I'm Learning
+# ✨ What I'm Learning
 
 - React Fundamentals
 - JSX & Components
@@ -66,28 +92,37 @@ More modules and frontend projects will continue to be added as learning progres
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js
 - npm
 - VS Code
 
-### Clone the Repository
+---
+
+## Clone the Repository
 
 ```bash
 git clone https://github.com/TanuSharma08/react.git
+```
+
+```bash
 cd react
 ```
 
-### Install Dependencies
+---
+
+## Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Run the Application
+---
+
+## Run the Application
 
 ```bash
 npm run dev
@@ -95,7 +130,7 @@ npm run dev
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Build strong frontend development skills
 - Master React ecosystem
@@ -105,11 +140,9 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 This is primarily a personal learning repository, but suggestions and improvements are always welcome.
-
-### Steps
 
 1. Fork the repository
 2. Create a branch
@@ -128,10 +161,14 @@ git commit -m "Add: suggestion"
 
 ---
 
-## 📄 License
+# 📄 License
 
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Made with ❤️ by Tanu Sharma
+<div align="center">
+
+Made with ❤️ by **Tanu Sharma**
+
+</div>
